@@ -1,0 +1,72 @@
+1ª Etapa do GP Sulamericano de VtES
+Rio de Janeiro, Brazil
+June 7th 2026
+3R+F
+39 players
+Anderson Pinto Rodrigues
+https://www.vekn.net/event-calendar/event/13348
+
+-- 2GW10 + 3vp in final
+
+Final Table:
+Cristiano Vaz: Nosferatu V5 Primogen > Anderson “Panda”: Protean Barons > Alberto “Bacia”: Hecata swarm allies > Yuri Prange: Tzimisce V5 Living Manse > Gabriel Mattos: Power of Death swarm allies
+
+Deck name: Thing in the Tijuca Forest
+
+Crypt (12 cards, min=14, max=26, avg=5.33)
+------------------------------------------
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Branimira              6  ANI dom pre pro  baron  Tzimisce:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (23; 6 trifle)
+1x Anarch Railroad
+2x Archon Investigation
+1x Backways
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+4x Effective Management
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Information Highway
+1x Parthenon, The
+1x Powerbase: Montreal
+6x Villein
+
+Action (14)
+1x Rewilding
+13x Thing
+
+Political Action (6)
+2x Consanguineous Boon
+2x Eat the Rich
+2x Revolutionary Council
+
+Action Modifier (11)
+4x Earth Control
+2x Monkey Wrench
+5x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (17)
+7x Bait and Switch
+2x Deep Ecology
+2x Delaying Tactics
+6x Organized Resistance
+
+Combat (15)
+2x Claws of the Dead
+9x Earth Meld
+4x Form of Mist

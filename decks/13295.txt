@@ -1,0 +1,63 @@
+Old Friends
+Barga, Italy
+June 6th 2026
+2R+F
+12 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/13295
+
+-- 1GW4 + 4vp in final
+
+Deck Name: Blessing of Chaos
+Description: Old school !Malk S&B revised and upgraded with cards from the Path of Cathari (multiactions and a very solid combat compartment) with some choises to make It a little bit solid instead of an allin bleed deck.
+
+Crypt (12 cards, min=23, max=31, avg=6.83)
+------------------------------------------
+3x Rodolfo                8  AUS DEM OBF pro  bishop      Malkavian antitribu:3
+3x Korah                  7  AUS DEM OBF ani  priscus     Malkavian antitribu:2
+2x Kite                   7  AUS DEM obf pre  bishop      Malkavian antitribu:2
+1x Marie Faucigny         7  AUS OBF dem tha  archbishop  Malkavian antitribu:3
+1x Dolphin Black          6  AUS DEM OBF                  Malkavian antitribu:2
+1x General Perfidio Díos  5  AUS dem obf      bishop      Malkavian antitribu:3
+1x Uncle George           5  DEM aus dom obf              Malkavian antitribu:3
+
+Library (90 cards)
+Master (14)
+1x Bleeding the Vine
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Elder Library
+3x Forward Momentum
+1x Information Highway
+6x Unholy Sacrament
+
+Action (22)
+1x Blessing of Chaos
+6x Call, The
+13x Kindred Spirits
+1x Madman's Quill
+1x Under Siege
+
+Action Modifier (26)
+8x Confusion
+2x Elder Impersonation
+4x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+2x Seeds of Terror
+2x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swift Cover
+
+Action Modifier/Reaction (2)
+2x Touch of Clarity
+
+Reaction (14)
+2x Delaying Tactics
+4x Eyes of Argus
+6x Telepathic Misdirection
+2x Wrong and Crosswise
+
+Combat (8)
+8x Kiss of Cathari

@@ -1,0 +1,62 @@
+Polish NC 2026
+Gdansk, Poland
+June 6th 2026
+3R+F
+40 players
+Nerijus Mikalajunas
+https://www.vekn.net/event-calendar/event/13350
+
+-- 2GW8 + 1.5vp in final
+
+Deck Name: The  Kennel of Caine
+Description: This deck, assembled by Nerijus, was inspired by Antti Penttilä's Kurshid PoC multi-rush deck and is heavily influenced by Bram van Stappen in many ways, with significant input from Marcin Zakrzewski.
+
+Crypt (12 cards, min=5, max=36, avg=4.92)
+-----------------------------------------
+5x Qawiyya el-Ghaduba  9  FOR POT VAL aus pre  Salubri antitribu:5
+3x Andre LeRoux        3  aus                  Toreador:5
+1x New Blood           2  san                  Blood Brother:ANY
+1x Anarch Convert      1  -none-               Caitiff:ANY
+1x Donald Cargill      1  aus                  Caitiff:5
+1x Walker Grimes       1  ani                  Caitiff:5
+
+Library (72 cards)
+Master (8; 1 trifle)
+6x Ashur Tablets
+1x Secure Haven
+1x Wider View
+
+Action (11)
+2x Abuse of Power
+1x Augury of Doom
+1x Big Game
+1x Bum's Rush
+1x Heroic Might
+1x Nose of the Hound
+1x Preternatural Strength
+1x Rumble
+2x Sense Death
+
+Equipment (5)
+1x Book of Going Forth by Night, The
+1x Flak Jacket
+1x IR Goggles
+1x Kevlar Vest
+1x Light Intensifying Goggles
+
+Retainer (3)
+3x Twisted Bloodhound
+
+Action Modifier (12)
+12x Freak Drive
+
+Combat (33)
+3x Death Seeker
+7x Immortal Grapple
+3x Pulled Fangs
+2x Rage of Apedemak
+1x Righteous Aura
+3x Rolling with the Punches
+2x Soulgrinder
+7x Taste of Vitae
+5x Unflinching Persistence

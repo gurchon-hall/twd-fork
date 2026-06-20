@@ -1,0 +1,72 @@
+Coterie Tactics CG
+Campina Grande (PB), Brazil
+May 22nd 2026
+2R+F
+10 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/13321
+
+-- 0GW2 + 3vp in final
+
+Deck Name: The Endless Dance [by Martin Weinmayer]
+
+Crypt (12 cards, min=27, max=37, avg=8.17)
+------------------------------------------
+5x Diana Iadanza      9  AUS CEL FOR PRE          justicar  Toreador:7
+1x François Villon   10  AUS CEL PRE ani obf pot  prince    Toreador:6
+1x Catalina Vega      8  AUS CEL PRE for          prince    Toreador:6
+1x Marcos Belegrad    8  AUS CEL PRE ani          prince    Toreador:7
+1x Modius             8  AUS CEL PRE obf          prince    Toreador:7
+1x Flávio Gonçalves   7  CEL PRE aus for          prince    Toreador:6
+1x Maila              6  AUS PRE cel              primogen  Toreador:6
+1x Mkhokheli          6  PRE aus cel for          prince    Toreador:6
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x British Museum, London, The
+1x Camarilla Conclave
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x Monastery of Shadows
+2x Papillon
+6x Villein
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Palatial Estate
+1x Sargon Fragment, The
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+5x Camarilla's Iron Fist
+4x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (22)
+1x Aire of Elation
+4x Awe
+4x Forced March
+1x Freak Drive
+4x Loup
+2x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (13)
+4x Eyes of Argus
+4x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (14)
+6x Charismatic Aura
+8x Majesty

@@ -1,0 +1,40 @@
+Anticipation
+Pittsburgh (PA), USA
+May 9th 2026
+2R+F
+15 players
+Erik Albenze
+https://www.vekn.net/event-calendar/event/13207
+
+-- 1GW2.5 + 2vp in final
+
+Deck Name: Nephandus garbage
+Description: Just another garbage nephandus deck but with only 12 unique cards!
+
+Crypt (12 cards, min=12, max=20, avg=4)
+---------------------------------------
+6x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+6x Keith Moody        3  DOM              Tremere antitribu:4
+
+Library (60 cards)
+Master (13)
+12x Ashur Tablets
+1x Liquidation
+
+Action (16)
+2x Ambush
+8x Computer Hacking
+6x Harass
+
+Ally (10)
+10x Nephandus
+
+Reaction (11)
+8x Deflection
+3x Delaying Tactics
+
+Combat (8)
+8x Target Vitals
+
+Event (2)
+2x Unmasking, The

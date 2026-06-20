@@ -1,0 +1,63 @@
+Eluding the Arms of Morpheus CG
+Campina Grande (PB), Brazil
+May 17th 2026
+2R+F
+10 players
+Matheus Dantas
+https://www.vekn.net/event-calendar/event/13299
+
+-- 0GW3 + 3vp in final
+
+Deck Name: G Incrivel
+
+Crypt (12 cards, min=14, max=36, avg=6.58)
+------------------------------------------
+4x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+1x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+1x Marcos Belegrad   8  AUS CEL PRE ani  prince    Toreador:7
+1x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+1x Maila             6  AUS PRE cel      primogen  Toreador:6
+1x Mkhokheli         6  PRE aus cel for  prince    Toreador:6
+1x Min-seo           3  aus cel                    Toreador:6
+1x Nik Sikko         3  cel pre                    Toreador:6
+1x Mateo García      2  pre                        Toreador:6
+
+Library (89 cards)
+Master (17; 5 trifle)
+1x Camarilla Conclave
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Monastery of Shadows
+1x Papillon
+4x Toreador Grand Ball
+5x Villein
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+6x Camarilla's Iron Fist
+6x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (30)
+3x Aire of Elation
+5x Awe
+2x Bewitching Oration
+4x Forced March
+5x Loup
+3x Perfect Paragon
+8x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (14)
+4x Eyes of Argus
+3x Second Tradition: Domain
+7x Telepathic Misdirection
+
+Combat (9)
+9x Majesty

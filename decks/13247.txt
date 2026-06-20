@@ -1,0 +1,64 @@
+FOOD & VTES IV
+Curitiba (PR), Brazil
+May 9th 2026
+3R+F
+15 players
+Thiago Umbria de Miranda
+https://www.vekn.net/event-calendar/event/13247
+
+-- 1GW6 + 4vp in final
+
+Deck Name: Ravnos by thithi
+
+Crypt (12 cards, min=15, max=26, avg=5.08)
+------------------------------------------
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+2x Zafira             4  PRE obf          Ravnos:7
+1x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (90 cards)
+Master (13)
+1x Anarch Troublemaker
+1x Antediluvian Awakening
+1x Archon Investigation
+1x Barrens, The
+1x Club Illusion
+1x Dreams of the Sphinx
+3x Effective Management
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+2x Week of Nightmares
+
+Action (25)
+16x Break the Bonds
+1x Entrancement
+4x Intimidation
+1x Legal Manipulations
+3x Public Trust
+
+Action Modifier (41)
+3x Cloak the Gathering
+3x Elder Impersonation
+5x Faceless Night
+4x Lost in Crowds
+10x Memory Rift
+2x Monkey Wrench
+4x Power of One
+2x Spying Mission
+8x Visions of Gehenna
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (5)
+5x Majesty
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

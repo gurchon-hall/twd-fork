@@ -1,0 +1,86 @@
+French Petit Prix
+France, France
+May 31st 2026
+3R+F
+10 players
+Paul Direktor
+https://www.vekn.net/event-calendar/event/13186
+
+-- 1GW7 + 2.5vp in final
+
+Deck Name: Unnamed Beast 2026 [by Florian Koller]
+Description:
+
+Full credit of this deck list goes to Florian Koller. He has done a phenomenal job with it, fine tuning it for more than 3 years and it's so much fun to play. I only made minor adjustments, adding a claws of the dead and a second unleash cause that never hurts.
+
+Abombwe as a support discipline is amazing and should be played more.
+Multi act is amazing. I get blocked? Zepyhr unlock. I don't get blocked? Instantaneous Transformation unlock.
+We're in combat? I will aggravate you. Maybe diablerize. Diablerizing vampires is great. Do you let me burn? I have a new Unnamed full of blood. Do you not let me burn? I still have an Unnamed but now he gets to bleed twice.
+You want to do an action? Suddenly I have 3 intercept! What, the Unnamed? Yes, the Unnamed. It's full of fun and surprising moments for everyone.
+
+Notes from the creator: As every combo deck it's really hard to balance and to make it work but that makes it very rewarding once it flows. In some games you contest and sit around for an hour and do nothing until you die, in some games you just try to survive if you don't draw the combo pieces. But when it works, it's so much fun and a great deck.
+
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x unnamed, The  10  CEL DAI OBF PRE PRO  Baali:6
+
+Library (90 cards)
+Master (21; 10 trifle)
+6x Abombwe
+1x Antediluvian Awakening
+1x Barrens, The
+3x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Life Boon
+1x Monastery of Shadows
+1x Redeem the Lost Soul
+4x Villein
+
+Action (14)
+5x Call the Great Beast
+1x Entrancement
+5x Flurry of Action
+1x Shadow of the Beast
+2x Unleash Hell's Fury
+
+Ally (3)
+1x Herald of Topheth
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (5)
+5x Soul Gem of Etrius
+
+Action Modifier (16)
+2x Devil-Channel: Throat
+3x Earth Control
+2x Enkil Cog
+6x Instantaneous Transformation
+1x Predator's Mastery
+2x Zephyr
+
+Action Modifier/Combat (8)
+4x Predator's Transformation
+2x Resist Earth's Grasp
+2x Taking the Skin: Minion
+
+Action Modifier/Reaction (3)
+2x Form of the Bat
+1x Sense the Sin
+
+Reaction (9)
+5x Predator's Communion
+4x Visions of Zapathasura
+
+Combat (10)
+1x Amaranth
+1x Claws of the Dead
+1x Devil-Channel: Hands
+3x Form of Mist
+4x Pursuit
+
+Event (1)
+1x Inconnu Tutelage
