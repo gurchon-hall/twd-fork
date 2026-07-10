@@ -1,0 +1,71 @@
+WoN 2026 - Event 3
+R Bar Arena, Columbus (OH), USA
+June 15th 2026
+2R+F
+24 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/13017
+
+-- 1GW3.5 + 3vp in final
+
+Deck Name: Gangrel WoN 3
+
+Crypt (12 cards, min=18, max=28, avg=5.83)
+------------------------------------------
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Adrino Manauara        8  ANI DOM PRO pot  baron  Tzimisce:6
+1x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Branimira              6  ANI dom pre pro  baron  Tzimisce:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (24; 7 trifle)
+1x Anarch Free Press, The
+1x British Museum, London, The
+2x Carfax Abbey
+2x Club Illusion
+2x Direct Intervention
+1x Elder Library
+2x Garibaldi-Meucci Museum
+1x Life Boon
+2x Papillon
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+7x Villein
+
+Action (1)
+1x Constant Revolution
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Sniper Rifle
+
+Political Action (2)
+2x Revolutionary Council
+
+Retainer (6)
+1x Crypt's Sons
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (29)
+8x Bait and Switch
+5x Delaying Tactics
+16x Organized Resistance
+
+Combat (17)
+1x Donnybrook
+10x Earth Meld
+6x Form of Mist

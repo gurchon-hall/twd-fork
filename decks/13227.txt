@@ -1,0 +1,62 @@
+Fee Stake Sorocaba
+Sorocaba, Brazil
+April 12th 2026
+2R+F
+24 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/13227
+
+-- 1GW5 + 3vp in final
+
+Deck Name: Filho do Piseiro
+
+Crypt (12 cards, min=6, max=40, avg=5.42)
+-----------------------------------------
+5x Ghede            10  FOR OBF POT PRE SER  Follower of Set:6
+2x Anarch Convert    1  -none-               Caitiff:ANY
+1x Ahmose Chambers   3  obf ser              Follower of Set:5
+1x Cao Nguyen        3  SER                  Follower of Set:6
+1x Monica Chang      3  dom tha              Tremere:5
+1x Eric Milliner     2  pot                  Giovanni:5
+1x New Blood         2  san                  Blood Brother:ANY
+
+Library (90 cards)
+Master (20; 2 trifle)
+6x Ashur Tablets
+2x Dreams of the Sphinx
+5x Eternals of Sirius, The
+1x Fame
+1x Giant's Blood
+2x Information Highway
+1x Tension in the Ranks
+2x Villein
+
+Action (7)
+1x Ambush
+1x Big Game
+2x Bum's Rush
+1x Harass
+2x Preternatural Strength
+
+Equipment (2)
+1x Book of Going Forth by Night, The
+1x Ivory Bow
+
+Political Action (1)
+1x Reckless Agitation
+
+Action Modifier (18)
+2x Enkil Cog
+14x Freak Drive
+2x Truth of a Thousand Lies
+
+Combat (40)
+3x Disarm
+7x Immortal Grapple
+5x Taste of Vitae
+23x Typhonic Beast
+2x Unflinching Persistence
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Dragonbound

@@ -1,0 +1,74 @@
+NAC 2026
+Columbus (OH), USA
+June 20th 2026
+3R+F
+59 players
+Jess Nash
+Organizer: Ben Peal
+https://www.vekn.net/event-calendar/event/13220
+
+-- 2GW7 + 3vp in final
+
+Round 1: 0VP
+Round 2: 1GW + 4VP
+Round 3: 2GW + 3VP
+Final: 1GW + 3VP
+
+Deck Name: Oderint dum metuant
+Author: apoapsis
+Description: "Let them hate, so long as they fear"
+
+Crypt (12 cards, min=29, max=40, avg=8.75)
+------------------------------------------
+4x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+2x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+2x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+1x Concordia                      6  DOM PRE for pot      Power  bishop      Ventrue:6
+
+Library (90 cards)
+Master (26; 8 trifle)
+1x Creepshow Casino
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Gurchon Hall
+1x Information Highway
+1x Monastery of Shadows
+1x Papillon
+1x Privileged Position
+1x Secure Haven
+4x Unholy Sacrament
+2x Ventrue Headquarters
+6x Villein
+2x Wash
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+4x Banishment
+6x Cold War
+2x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (28)
+4x Dominant Personality
+2x Enkil Cog
+4x Iron Glare
+4x Perfect Paragon
+4x Relentlessness
+6x Unthinkable Humiliation
+4x Voter Captivation
+
+Reaction (6)
+6x Deflection
+
+Combat (6)
+6x Majesty
