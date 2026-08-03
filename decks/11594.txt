@@ -8,53 +8,54 @@ https://www.vekn.net/event-calendar/event/11594
 
 Deck Name: Camarilla Conclave GP 2024
 Description:
-0GW3
+0GW2.5
 
-Crypt (12 cards, min=26 max=36 avg=7.67)
+Crypt (12 cards, min=22 max=32 avg=7)
 ----------------------------------------
-4x Sheldon, Lord of the Clog        9 for ANI AUS OBF POT   Justicar   Nosferatu:1
-2x Selma the Repugnant              8 ani for OBF POT       Prince     Nosferatu:1
-3x Nikolaus Vermeulen               7 ani for obf POT       Prince     Nosferatu:2
-2x Murat                            7 ser OBF POT           Prince     Nosferatu:2
-1x Calebros, The Martyr             5 obf pot ANI           Prince     Nosferatu:2
+3x Sascha Vykos, The Angel of Caine (ADV) 8 ani dom AUS THA VIC   Archbishop Tzimisce:2
+1x Anton                            8 cel obf vic ANI AUS              Tzimisce:2
+1x Little Tailor of Prague          8 dem ANI AUS VIC                  Tzimisce:2
+1x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
+1x Dragos                           7 vic ANI AUS                      Tzimisce:2
+1x Kazimir Savostin                 7 ani pot AUS VIC                  Tzimisce:3
+1x Caliban                          6 ANI AUS VIC                      Tzimisce:2
+1x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
+1x Devin Bisley                     5 vic ANI AUS                      Tzimisce:2
+1x Elizabeth Westcott               5 ani cel vic AUS                  Tzimisce:3
 
-Library (70 cards)
+Library (90 cards)
 ------------------
-Master (18)
-1x Camarilla Conclave
-1x The Coven
-1x Elysium: The Palace of Versailles
-1x Fear of Mekhet
-1x The Labyrinth
-1x Legendary Vampire
-1x Perfectionist
-4x Protected Resources
-3x Vessel
-3x Warsaw Station
+Master (23)
+1x Anarch Troublemaker
+6x The British Museum, London
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Information Highway
+1x Library Hunting Ground
+4x Perfectionist
+6x Villein
 1x Wider View
 
-Action (8)
-4x Fourth Tradition: The Accounting
-3x Judgment: Camarilla Segregation
-1x SchreckNET
+Action (1)
+1x Abbot
 
-Political Action (15)
-5x Camarilla's Iron Fist
-2x Kine Resources Contested
-8x Parity Shift
-
-Equipment (2)
+Equipment (9)
 1x Heart of Nizchetus
-1x The Sargon Fragment
+7x Living Manse
+1x Palatial Estate
 
-Action Modifier (26)
-2x Closed Session
-2x Daring the Dawn
-2x Elder Impersonation
-5x Forgotten Labyrinth
-8x Freak Drive
-5x Lost in Crowds
-2x Telepathic Vote Counting
+Action Modifier (8)
+6x Changeling
+2x Mind of the Wilds
 
-Event (1)
-1x Nightmares upon Nightmares
+Reaction (41)
+2x Delaying Tactics
+12x Eyes of Argus
+5x Guard Dogs
+3x My Enemy's Enemy
+4x On the Qui Vive
+15x Telepathic Misdirection
+
+Combat (8)
+2x Breath of the Dragon
+6x Chiropteran Marauder
